@@ -7,7 +7,7 @@ app.use(cors())
 
 app.use(express.json())
 
-app.listen(8080,function(){
+app.listen(3369, function(){
     console.log("It's Work!")
 })
 
